@@ -16,6 +16,7 @@
 
 ### GitHub Stats 🎈
 
-![ConstOwn's Github Stats](https://github-readme-stats.vercel.app/api?username=constown&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff)
+![ConstOwn's Github Stats](https://github-readme-stats.vercel.app/api?username=constown&show_icons=true&theme=radical)
+![ConstOwn's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constown&theme=radical)
 
 #### Nice to see you! 🤣🤣🤣
