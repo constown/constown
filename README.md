@@ -14,10 +14,3 @@
 - 📝 My Blog: [你真是一个美好的人类](https://blog.juanertu.com/)
 - ✉️ Email: [constown@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=mvn19Onu9e302vz14vf78-a0_fX3)
 
-### GitHub Stats 🎈
-
-![ConstOwn's Github Stats](https://github-readme-stats.vercel.app/api?username=constown&show_icons=true&theme=radical)
-
-![ConstOwn's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=constown&theme=radical)
-
-#### Nice to see you! 🤣🤣🤣
